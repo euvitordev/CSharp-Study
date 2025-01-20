@@ -1,0 +1,14 @@
+C:\dev\Study\C Sharp Study\bin\Debug\net8.0\C Sharp Study.exe
+C:\dev\Study\C Sharp Study\bin\Debug\net8.0\C Sharp Study.deps.json
+C:\dev\Study\C Sharp Study\bin\Debug\net8.0\C Sharp Study.runtimeconfig.json
+C:\dev\Study\C Sharp Study\bin\Debug\net8.0\C Sharp Study.dll
+C:\dev\Study\C Sharp Study\bin\Debug\net8.0\C Sharp Study.pdb
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\C Sharp Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\C Sharp Study.AssemblyInfoInputs.cache
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\C Sharp Study.AssemblyInfo.cs
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\C Sharp Study.csproj.CoreCompileInputs.cache
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\C Sharp Study.dll
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\refint\C Sharp Study.dll
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\C Sharp Study.pdb
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\C Sharp Study.genruntimeconfig.cache
+C:\dev\Study\C Sharp Study\obj\Debug\net8.0\ref\C Sharp Study.dll
